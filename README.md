@@ -23,6 +23,6 @@ R. da Marcha Gualtariana, 628
 ### Who and how do we talk to?
 
 - DiRoots Limited software development team.
-- If you are facing issues regarding plugin update to new version workflow please contact our support team at support@diroots.com
+- If you are facing issues regarding plugin update to new version workflow please contact our [support team](mailto:support@diroots.com)
 
 Copyright 2021 DiRoots Limited. All Rights Reserved.
